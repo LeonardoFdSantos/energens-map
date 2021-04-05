@@ -1,4 +1,5 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "C:\\Dev\\Python\\envs\\projetos\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Dev\\Python\\envs\\projetos\\Scripts\\python.exe",
+    "cmake.configureOnOpen": false
 }
